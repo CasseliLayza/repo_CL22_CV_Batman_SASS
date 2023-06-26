@@ -1,0 +1,56 @@
+.encabezado {
+  text-align: center;
+  background: #E6E6E6;
+  padding-top: 17px;
+
+}
+
+.titulo {
+  font-family: "Times New Roman";
+  font-size: 35px;
+  color: #005677;
+  text-align: center;
+  background: #c4c4c4;
+  letter-spacing: 10pt;
+}
+
+.tituloSeleccion {
+  font-family: "Times New Roman";
+  font-size: 20px;
+  color: #005677;
+  background: #c4c4c4;
+  letter-spacing: 5pt;
+}
+
+.indent {
+  padding-left: 79px;
+}
+
+.fuenteSeccions {
+  font-family: "Times New Roman";
+}
+
+.dtsPersonals .negritaCursiba {
+  font-weight: bolder;
+  font-style: oblique;
+
+}
+
+.formacionAcademica .negrita {
+  font-weight: bolder;
+}
+
+.experienciaProfesional .negrita {
+  font-weight: bolder;
+}
+
+.pieDePagina {
+  background: #005677;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 10px;
+}
+
+.iconspace {
+  padding-left: 10px;
+}
